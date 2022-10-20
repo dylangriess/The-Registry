@@ -6,6 +6,12 @@
   color: white;
   font-size: 60px;
   font-family: "Berkshire Swash", cursive;
+  padding: 10px;
+  margin-bottom: -10px;
+}
+
+.titleLink {
+  text-decoration: none;
 }
 
 .nav-container {
@@ -24,12 +30,15 @@
 .buttons {
   display: flex;
   align-items: flex-end;
+  margin: 10px;
 }
 .button-1,
 .button-2,
 .button-3 {
   background-color: #8064a2;
   border: none;
+  margin: 5px;
+  padding: 10px;
 }
 
 .button-1:hover,
