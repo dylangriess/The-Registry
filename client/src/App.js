@@ -12,8 +12,8 @@ import Wedding from "./pages/Wedding";
 import Graduation from "./pages/Graduation";
 import Newbaby from "./pages/Newbaby";
 import Profile from "./pages/Profile";
-import Header from "./components/helpers/Header";
-import Footer from "./components/helpers/Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
 

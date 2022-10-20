@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { useQuery } from "@apollo/client";
-import { QUERY_GIFTS } from "../../utils/queries";
+import { QUERY_GIFTS } from "../utils/queries";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import "./styles/backgroundColor.css";

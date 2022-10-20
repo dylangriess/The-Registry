@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useQuery } from "@apollo/client";
 
 // import { ADD_MESSAGE } from "../../utils/mutations";
-import { QUERY_MESSAGES } from "../../utils/queries";
+import { QUERY_MESSAGES } from "../utils/queries";
 
 const GifterInput = () => {
   const [messageAuthor, setMessageAuthor] = useState("");

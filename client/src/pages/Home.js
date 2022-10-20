@@ -7,7 +7,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import AboutRegistryImagesItem from "../components/helpers/AboutRegistryImagesItem";
+import AboutRegistryImagesItem from "../components/AboutRegistryImagesItem";
 
 import image1 from "../assets/images/image1.jpeg";
 import image2 from "../assets/images/image2.jpeg";

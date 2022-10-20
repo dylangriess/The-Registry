@@ -1,12 +1,12 @@
 import React from "react";
 import imageL from "../assets/images/imageL.jpg";
 
-import WishListItems from "../components/helpers/WishListItems";
+import WishListItems from "../components/WishListItems";
 import { useQuery } from "@apollo/client";
 import { QUERY_GIFTS, QUERY_MESSAGES } from "../utils/queries";
-import GifterInput from "../components/helpers/GifterInput";
-import MessageList from "../components/helpers/MessageList";
-import StripeContainer from "../components/helpers/StripeContainer";
+import GifterInput from "../components/GifterInput";
+import MessageList from "../components/MessageList";
+import StripeContainer from "../components/StripeContainer";
 import { useState } from "react";
 
 import "./styles/graduation.css";
